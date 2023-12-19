@@ -30,6 +30,8 @@
 ## 3. Hướng dẫn sử dụng
 - ### Đối với đồ án chạy 100% bằng ___livesever và dữ liệu được lưu trên LocalStogare___ :
   - Tìm thư mục có tên "HomeForGuest" và chạy file "index.html".
+  - Lướt xuống dưới cùng file "index.html", mở các link js khởi tạo dữ liệu trên LocalStorage.
+  - Sau khi khởi tạo dữ liệu xong, đóng các link js đó lại.
   - Tài khoản Admin để test : 
     - Tên đăng nhập : Admin000
     - Mật khẩu : 123123
